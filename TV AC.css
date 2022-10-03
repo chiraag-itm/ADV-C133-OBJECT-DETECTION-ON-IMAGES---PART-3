@@ -1,0 +1,38 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+body{
+    background-size: cover;
+    background-position:center;
+}
+
+canvas{
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px darkgrey;
+    margin-top: 100px;
+}
+
+
+a{
+    margin-top: 30px;
+    border-radius: 30px;
+border-width: 1px;
+    width: 200px;
+font-size: x-large !important;
+color: aliceblue;
+border: 3px solid white !important;
+border-radius: 20px !important;
+height: 50px;
+float:right;
+}
+
